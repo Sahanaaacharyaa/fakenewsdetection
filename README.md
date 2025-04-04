@@ -1,7 +1,7 @@
 # Real-Time Fake News Detection Model
 
 # Introduction
-This project aims to develop a real-time fake news detection model using machine learning algorithms. We collected datasets from (link unavailable) and combined them into a single dataset, labeling fake articles as 0 and true articles as 1.
+This project aims to develop a real-time fake news detection model using machine learning algorithms. We collected datasets from kaggle.com and combined them into a single dataset, labeling fake articles as 0 and true articles as 1.
 
 # Data Preprocessing
 - Combined two datasets from kaggle.com into a single dataset
